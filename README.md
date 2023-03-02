@@ -1,4 +1,4 @@
-Backend(api)
+Backend(rest api,microservices,jwt,nwidart modules,some paypal api integration(authentication,create order and capture order))
 
 Create database
 - name randoms
